@@ -2,7 +2,7 @@
 My Jupyter Notebook on IBM Watson Studio
 Shanaz Khan
 
-Engineering Analyst
+Business Analyst
 
 I am interested in data science because, I want to combine the power of tools with the business requirements, to create powerful solutions and provide deep insights into issues an organization needs to solve or discover underlying patterns to discover new potential insights
 
